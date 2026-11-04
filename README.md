@@ -241,4 +241,4 @@ This repository serves as the official landing page for Image Resizer. The softw
 **Get the most recent version of Image Resizer today!**
 
 ---
-**Last updated:** 2026-11-03 23:47:14 UTC
+**Last updated:** 2026-11-04 03:54:20 UTC
